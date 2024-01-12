@@ -31,3 +31,4 @@ C:\Users\school\OneDrive - triOS College\Desktop\school-work\Mike_Rogers_CDEV_FP
 C:\Users\school\OneDrive - triOS College\Desktop\school-work\Mike_Rogers_CDEV_FP\Mike_Rogers_CDEV_FP\obj\Debug\net8.0\Mike_Rogers_CDEV_FP.genruntimeconfig.cache
 C:\Users\school\OneDrive - triOS College\Desktop\school-work\Mike_Rogers_CDEV_FP\Mike_Rogers_CDEV_FP\obj\Debug\net8.0\ref\Mike_Rogers_CDEV_FP.dll
 C:\Users\school\OneDrive - triOS College\Desktop\school-work\Mike_Rogers_CDEV_FP\Mike_Rogers_CDEV_FP\bin\Debug\net8.0\CandleDB.json
+C:\Users\school\OneDrive - triOS College\Desktop\school-work\Mike_Rogers_CDEV_FP\Mike_Rogers_CDEV_FP\obj\Debug\net8.0\Mike_Rogers_CDEV_FP.sourcelink.json

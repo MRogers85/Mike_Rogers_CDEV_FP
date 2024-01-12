@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mike_Rogers_CDEV_FP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be5cdba7345c44aa8b36c7f1bb44cd7fb8f3cc1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mike_Rogers_CDEV_FP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mike_Rogers_CDEV_FP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
