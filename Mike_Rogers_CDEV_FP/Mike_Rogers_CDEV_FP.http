@@ -1,0 +1,6 @@
+@Mike_Rogers_CDEV_FP_HostAddress = http://localhost:5150
+
+GET {{Mike_Rogers_CDEV_FP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mike_Rogers_CDEV_FP.props" />
+</Project>
